@@ -1,0 +1,45 @@
+[submodule "fj33-eats-monolito"]
+	path = fj33-eats-monolito
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-monolito.git
+[submodule "fj33-eats-ui"]
+	path = fj33-eats-ui
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-ui.git
+[submodule "fj33-eats-pacotes"]
+	path = fj33-eats-pacotes
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-pacotes.git
+[submodule "fj33-eats-monolito-modular"]
+	path = fj33-eats-monolito-modular
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-monolito-modular.git
+[submodule "fj33-eats-pagamento-service"]
+	path = fj33-eats-pagamento-service
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-pagamento-service.git
+[submodule "fj33-eats-distancia-service"]
+	path = fj33-eats-distancia-service
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-distancia-service.git
+[submodule "fj33-api-gateway"]
+	path = fj33-api-gateway
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-api-gateway.git
+[submodule "fj33-service-registry"]
+	path = fj33-service-registry
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-service-registry.git
+[submodule "fj33-eats-nota-fiscal-service"]
+	path = fj33-eats-nota-fiscal-service
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-nota-fiscal-service.git
+[submodule "fj33-config-server"]
+	path = fj33-config-server
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-config-server.git
+[submodule "fj33-hystrix-dashboard"]
+	path = fj33-hystrix-dashboard
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-hystrix-dashboard.git
+[submodule "fj33-turbine"]
+	path = fj33-turbine
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-turbine.git
+[submodule "fj33-admin-server"]
+	path = fj33-admin-server
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-admin-server.git
+[submodule "fj33-eats-administrativo-service"]
+	path = fj33-eats-administrativo-service
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-eats-administrativo-service.git
+[submodule "fj33-authorization-server"]
+	path = fj33-authorization-server
+	url = https://gitlab.com/aovs/projetos-cursos/fj33-authorization-server.git
